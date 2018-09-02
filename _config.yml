@@ -19,7 +19,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   Using this site as the medium sanju singh wants to share his learning and
   new findings with the world, mostly related to software technologies.
 baseurl: "/blog"
-url: "sanju-singh.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://sanju-singh.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
 github_username:  sanju-singh
 
@@ -30,7 +30,7 @@ plugins:
   - jekyll-feed
 
 disqus:
-    shortname: disqus_yrHk1Kxyum
+    shortname: sanju-singh-github-io
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
